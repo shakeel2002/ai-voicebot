@@ -1,0 +1,5 @@
+{
+  "name": "rolex.ai VoiceBot",
+  "description": "A friendly Gen Z voice AI that answers in 2-3 short sentences, sounding calm, smart, and creative. It maintains a professional yet youthful tone, offering positive and concise responses.",
+  "requestFramePermissions": ["microphone"]
+}
